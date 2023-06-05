@@ -50,7 +50,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A young noblewoman arrives at court and quickly gets embroiled in court politics and to the attention of the king.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Katherine Howard, a young, devoutly Catholic, impoversihed noblewoman, arrives at the court of King Henry VIII as he has just married his fourth wife. The idealistic and beautiful girl is unprepared for the corruption and intrigue she finds there. Quite accidentally, she comes to notice of the king and quickly becomes involved with the competing members of court. The first book in a triolgy about the doomed queen, &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; impressionistic novel of the Tudor court is filled with power and fear.&lt;/p&gt;
+			&lt;p&gt;Katherine Howard, a young, devoutly Catholic, impoverished noblewoman, arrives at the court of King Henry VIII as he has just married his fourth wife. The idealistic and beautiful girl is unprepared for the corruption and intrigue she finds there. Quite accidentally, she comes to the notice of the king and quickly becomes involved with the competing members of court. The first book in &lt;a href="https://standardebooks.org/collections/the-fifth-queen"&gt;a triolgy&lt;/a&gt; about the doomed queen, &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; impressionistic novel of the Tudor court is filled with power and fear.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30188</dc:source>
@@ -68,6 +68,7 @@
 		<dc:contributor id="artist">Hans Holbein the Younger</dc:contributor>
 		<meta property="file-as" refines="#artist">Holbein, Hans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81117179</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Viswanathan, Sankar</meta>
