@@ -15,3 +15,7 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+#chapter-1-7 > blockquote{
+	font-style: italic;
+}
