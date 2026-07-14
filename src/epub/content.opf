@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Fifth Queen: And How She Came to Court</dc:title>
 		<meta property="file-as" refines="#fulltitle">Fifth Queen, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Catherine Howard, Queen, consort of Henry VIII, King of England, -1542--Fiction</dc:subject>
 		<dc:subject id="subject-2">Cromwell, Thomas, Earl of Essex, 1485?-1540--Fiction.</dc:subject>
 		<dc:subject id="subject-3">Queens--Great Britain--Fiction.</dc:subject>
