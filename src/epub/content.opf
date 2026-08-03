@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen</dc:identifier>
 		<dc:date>2023-06-18T15:38:06Z</dc:date>
@@ -50,10 +50,10 @@
 		<meta id="collection-1" property="belongs-to-collection">The Fifth Queen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Katherine Howard, a young, devoutly Catholic, and impoverished noblewoman, arrives at the court of King Henry VIII as he has just married his fourth wife. The idealistic and beautiful girl is unprepared for the corruption and intrigue she finds there. Quite accidentally, she comes to the notice of the king and quickly becomes involved with the competing members of court. The first book in &lt;a href="https://standardebooks.org/collections/the-fifth-queen"&gt;a trilogy&lt;/a&gt; about the doomed queen, &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; impressionistic novel of the Tudor court is rich with themes of power and fear.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30188</dc:source>
 		<dc:source>https://archive.org/details/fifthqueenandho00fordgoog</dc:source>
