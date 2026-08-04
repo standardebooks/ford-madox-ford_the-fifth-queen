@@ -50,7 +50,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Fifth Queen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.</dc:abstract>
+		<meta property="schema:abstract">A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.</meta>
 		<dc:description>
 			&lt;p&gt;Katherine Howard, a young, devoutly Catholic, and impoverished noblewoman, arrives at the court of King Henry VIII as he has just married his fourth wife. The idealistic and beautiful girl is unprepared for the corruption and intrigue she finds there. Quite accidentally, she comes to the notice of the king and quickly becomes involved with the competing members of court. The first book in &lt;a href="https://standardebooks.org/collections/the-fifth-queen"&gt;a trilogy&lt;/a&gt; about the doomed queen, &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; impressionistic novel of the Tudor court is rich with themes of power and fear.&lt;/p&gt;
 		</dc:description>
